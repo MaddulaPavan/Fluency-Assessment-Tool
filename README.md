@@ -1,4 +1,4 @@
-# Pronunciation Assessment Tool
+# Fluency Assessment Tool
 
 A lightweight, browser-based multilingual pronunciation assessment tool built using HTML, CSS, and JavaScript. It helps users practice reading predefined paragraphs in multiple Indian languages and get feedback on pronunciation accuracy using speech-to-text comparison.
 
