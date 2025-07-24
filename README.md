@@ -11,3 +11,24 @@ A lightweight, browser-based multilingual pronunciation assessment tool built us
 
 -> No Backend Required – runs entirely in the browser
 
+## Tech Stack
+
+-> Frontend: HTML and CSS
+
+-> JavaScript APIs: Web Speech API 
+
+-> Icons: Font Awesome
+
+## How It Works
+
+-> A predefined paragraph is shown to the user based on the selected language.
+
+-> The user reads the paragraph aloud by clicking the red microphone button.
+
+-> The Web Speech API captures the voice input and transcribes it to text.
+
+-> The tool calculates the similarity between the spoken and original paragraphs using edit distance.
+
+-> Based on the similarity score, it provides a feedback message.
+
+
