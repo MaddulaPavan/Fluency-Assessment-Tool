@@ -4,7 +4,10 @@ A lightweight, browser-based multilingual pronunciation assessment tool built us
 
 ## Features
 -> Real-time Speech Recognition using the Web Speech API
+
 -> Multilingual Support: English, Hindi, Telugu, and Malayalam
+
 -> Pronunciation Scoring using similarity metrics
+
 -> No Backend Required – runs entirely in the browser
 
